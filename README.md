@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SilencedHere
+👋 Hi, how are you doing today? My name is Oskari and...
 - 👀 I’m interested in programming, cybersecurity and web development
-- 📫 Send me an email at silenced@koira.testausserveri.fi
+- 📫 You can send me an email at silenced@koira.testausserveri.fi
 
